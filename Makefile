@@ -62,6 +62,7 @@ init:
 	@echo # Add your environment variables here > "$(ENV_FILE)"
 	@echo # Add files and directories to ignore in version control > "$(GITIGNORE_FILE)"
 	@echo # Add your project dependencies here > "$(REQUIREMENTS_FILE)"
+	@echo jupyterlab >> "$(REQUIREMENTS_FILE)"  # Add jupyterlab as a default requirement
 	@echo ">>>>>> Project structure initialized successfully <<<<<<"
 
 # Setup the virtual environment and install dependencies

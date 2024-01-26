@@ -1,2 +1,8 @@
 # Add your project dependencies here 
-jupyterlab
+jupyterlab   # Add jupyterlab as a default requirement
+numpy
+pandas
+matplotlib
+scikit-learn
+plotly
+umap-learn
