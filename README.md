@@ -1,2 +1,4 @@
-# DimReduce-HealthAnalytics
-A project showcasing the application of various dimensionality reduction techniques for visualizing and analyzing simulated health diagnostics data in 2D and 3D.
+# Project Title 
+ 
+## Connect 
+- 🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/labrijisaad/) 
